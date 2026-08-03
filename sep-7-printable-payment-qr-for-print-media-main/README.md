@@ -1,4 +1,4 @@
-# SEP 7 Printable Payment QR for Print Media
+**#PrintaPay QR**
 
 SEP 7 Printable Payment QR for Print Media addresses this by turning the workflow into a Stellar testnet record with clear state transitions. Everyday payment workflows need wallet-native settlement, verifiable records, and simple testnet onboarding.
 
